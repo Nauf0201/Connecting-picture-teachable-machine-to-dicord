@@ -33,4 +33,4 @@ async def check(ctx):
         await ctx.send("Anda lupa mengunggah gambar :(")
 
 
-bot.run("MTEwNjgwNDgzNTI5NjIzMTQ4NA.GBYNsG.AYsaXjZHAYqFXLAR5ZFWJsnPTfMAu5Nqslo-18")
+bot.run("Secret token here")
